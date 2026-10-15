@@ -1,11 +1,13 @@
 {
   "stable": {
-    "version": "0.27.20.21",
+    "version": "0.27.23.22",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-stable.enc",
-    "sha256": "4369e00cb8722a31b2639629e5d01b233f9f7ea3965631f7204f3ba8ea3b27e6",
-    "signature": "8soL39Vta674zDA9OGm/0969hZu8Q2LSK7bBhx+0SHyFDUUkzOCHhijw0dmD6+8p9k/FSmBqdySJv1XH4SHilw==",
+    "sha256": "58f11edc830e070eca4bffd40ed46976c200dd85f9825927f4e2d6e5d82e0c91",
+    "signature": "qZ8Xf2zqmhHk0F+6c94xWHcgEEgvEN8FrBr03YrGbSy3qZ7XoKgsigcD4A9aN5EbWI4JHhxIAV007XIlPYpgNg==",
     "changelog": [
-      "0.27.20 Убрана надпись \"Папка «dmte» готова к установке обновлений.\" в настройках"
+      "0.27.23",
+      "* Статус при отсутствии обновлений: просто «Обновлений нет».",
+      "* Перезаписываются только изменившиеся файлы (сравнение байт с диском). Остальные пропускаются — перестройка пайплайна не нужна, это локальная проверка перед записью."
     ]
   }
 }
