@@ -1,11 +1,12 @@
 {
   "stable": {
-    "version": "0.27.26.24",
+    "version": "0.27.29.25",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-stable.enc",
-    "sha256": "7052a4eb53babed6a01c11d40a57969f8c4f662f0531f596c911cf772a770ca2",
-    "signature": "L7m+O4bZrI/oax/Ql2uvm/xnjomq5WfDu6VadyKIpVvFPLQIZfXcLNVP/YTBDh9kSiNJ8duQuvuLwlEO1TQBKQ==",
+    "sha256": "237c008b33566d8fa35d97231136c917ccbd557555843a45eb3358b4648ebe36",
+    "signature": "EWsRirTh4uLh9z4D6efzxq4vQzDfr4CXHgJv4CWiXGxiFleTwRb2SgNM6S9d44sU40/nYgRltr7r11nCaG8DSw==",
     "changelog": [
-      "0.27.27 проверка деплоя"
+      "0.27.29",
+      "Добавлен путь по умолчанию для расширения"
     ]
   }
 }
