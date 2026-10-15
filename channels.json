@@ -1,11 +1,11 @@
 {
   "stable": {
-    "version": "0.27.19.20",
+    "version": "0.27.20.21",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-stable.enc",
-    "sha256": "416dffb7b1f5cf2f7114e848765371f3dddad5ccb82ed88744856dbabf975446",
-    "signature": "y+wsxkkJetlpxPlasvdholwvr7kVcPI+r6RNeM4C0jFTgR9dnCkPepUcndxljSc9MD1frDlh6UmPbThjenwSRg==",
+    "sha256": "4369e00cb8722a31b2639629e5d01b233f9f7ea3965631f7204f3ba8ea3b27e6",
+    "signature": "8soL39Vta674zDA9OGm/0969hZu8Q2LSK7bBhx+0SHyFDUUkzOCHhijw0dmD6+8p9k/FSmBqdySJv1XH4SHilw==",
     "changelog": [
-      "0.27.19 небольшое обновление интерфейса настроек"
+      "0.27.20 Убрана надпись \"Папка «dmte» готова к установке обновлений.\" в настройках"
     ]
   }
 }
