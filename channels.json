@@ -1,0 +1,11 @@
+{
+  "stable": {
+    "version": "0.27.3.4",
+    "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-stable.enc",
+    "sha256": "4f7ddc2721a74d63cee36d123caf78568206eb80f5532fc7a2bd237587ce0171",
+    "signature": "2gTBfP9NVuXutvNdjzuKNjjToPSN/B0UERg8Ibqlt/EgYqwohzk9FFzp0vdkqp84r62KMOcKydJVfon2DeL80w==",
+    "changelog": [
+      "Обновление workflow"
+    ]
+  }
+}
