@@ -1,11 +1,11 @@
 {
   "stable": {
-    "version": "0.27.16.17",
+    "version": "0.27.17.18",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-stable.enc",
-    "sha256": "a9939ffdf63b5873640806374f08b36afe65a404752863ebd98cecef5feba50f",
-    "signature": "taTXy4rli0biT5C4n6LZw2MZQ/hZ3E0oKvDDFp3s17P06nbgX43jenX8ctf25KIzwHnNLChB/BIS0YCmrTngew==",
+    "sha256": "134f59be869029c2ea30e65f64cbe1bdf35293516ae4b119a63ea7aec7bb94c4",
+    "signature": "u8I9Dr0N/SuUnGaY+Ah1jpdKuw9N1bDqXHfPBTz67qMjeCv3hYsTiECiwJGy67D6+6j8cPixe5u3bKu1mShA+g==",
     "changelog": [
-      "0.27.16 - Переведены названия в настройках"
+      "0.27.17 исправлены разрешения в updater"
     ]
   }
 }
