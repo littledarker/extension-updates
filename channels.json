@@ -1,11 +1,11 @@
 {
   "stable": {
-    "version": "0.27.14.15",
+    "version": "0.27.15.16",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-stable.enc",
-    "sha256": "b093ff439060a10011332db70ab0c76b3868bbb47d9ec63d79b8b9a148d520ad",
-    "signature": "X0l1veCNz4oWuVYzF3/oKdJqudqlvGEzy9Za0WF/LTLETIafLhemuWwoIyEpbhV+WeS793daCGSkAs5Qjm2KrQ==",
+    "sha256": "d7823f773ac43bf2cb7e3603a26f5ab2baa2ab1cd253b7a9b720a035085f1774",
+    "signature": "hrIAsu5oULGqjkZxM/nCu7iEZunBfOXBdFNEnBIKh3ztIMlNyZOhZf7EwZmbY2W4C7+Oojq9tZ56WcsNIcL7rg==",
     "changelog": [
-      "0.27.14 поправлена логика обновления"
+      "0.27.15 обновление логики updater - смена алгоритма распаковки"
     ]
   }
 }
