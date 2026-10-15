@@ -1,11 +1,11 @@
 {
   "stable": {
-    "version": "0.27.7.9",
+    "version": "0.27.8.10",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-stable.enc",
-    "sha256": "d7acc24c5af4639179c2bbbea4993a83fad042247a7d980f82f42f17c5a4b488",
-    "signature": "g9UKf/MwGDt0mVpStL1zIAR1XnGQfehNRnl1nVk7abA9T4ORc1SPx7/fMHbvWWDrNAm+zVqVGynFDMKs3qe0hg==",
+    "sha256": "6f624812ba207d5b0651b208b39ff42a171a0339bd02db0887d2926fb1b703fa",
+    "signature": "20cm+m0YWVm+7EUYaE/d2AOwXOuQNJJD2foou8kaJd1kl0dJsVukHPhWCH+IvatmEj6T4BDzVFBR8mb0IqqLkA==",
     "changelog": [
-      "0.27.7 тест обновления"
+      "0.27.8 тест обновления"
     ]
   }
 }
