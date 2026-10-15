@@ -1,13 +1,13 @@
 {
   "stable": {
-    "version": "0.27.23.22",
+    "version": "0.27.24.23",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-stable.enc",
-    "sha256": "58f11edc830e070eca4bffd40ed46976c200dd85f9825927f4e2d6e5d82e0c91",
-    "signature": "qZ8Xf2zqmhHk0F+6c94xWHcgEEgvEN8FrBr03YrGbSy3qZ7XoKgsigcD4A9aN5EbWI4JHhxIAV007XIlPYpgNg==",
+    "sha256": "b4eb68753b3c421d4e40869e232de6c1d91cd0d37f85ab7a39e94c3574b49067",
+    "signature": "SiOG89t8Y99ddG75gxrFgxPYXPeZPYICqh+oGUDjcVofN7tLFOyJ5ylDIQ5JPieNGA7g1l8Jtgc5W0Xz12c/tg==",
     "changelog": [
-      "0.27.23",
-      "* Статус при отсутствии обновлений: просто «Обновлений нет».",
-      "* Перезаписываются только изменившиеся файлы (сравнение байт с диском). Остальные пропускаются — перестройка пайплайна не нужна, это локальная проверка перед записью."
+      "0.27.24",
+      "В системном уведомлении вместо changelog: «Список изменений на странице настроек»",
+      "Прогресс сравнения/записи файлов — через общие toast (как на клубе): карточка сверху, прогресс-бар, success/warning/error в конце, а не мелкие чёрные всплывашки"
     ]
   }
 }
