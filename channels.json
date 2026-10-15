@@ -1,11 +1,11 @@
 {
   "stable": {
-    "version": "0.27.3.5",
+    "version": "0.27.4.6",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-stable.enc",
-    "sha256": "055ccc813ffc4bfc59f514a1200abefa641e89cfae16495da389b7914f9ea9d2",
-    "signature": "hskcg9W6cVoUC7kgTHF+XNYmcqhQ3E7aXNbVev2jqrT3dq6aMRNp9AITJLlufko9HMbRkT7mN/PSpFdDipHcww==",
+    "sha256": "3b07628e81013adb23f61bf9b6a631c8b5511e2a548ec34767d4789bad811e4e",
+    "signature": "l+KLJXMalO+lAOR+YwZ1AnWkn5SQAUbKSm8xuSXjy2YYjcSoBKbv7B/ImG1eq69ekVPaIbyh2fhysPElTqqtWA==",
     "changelog": [
-      "Обновление workflow"
+      "Обновление Workflow"
     ]
   }
 }
