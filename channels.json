@@ -19,12 +19,12 @@
     ]
   },
   "sid": {
-    "version": "0.28.4.34",
+    "version": "0.29.0.35",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-sid.enc",
-    "sha256": "bfc0948e0d228ae917e1f55b54cbda9d65c6e443ef6b7297882ea35cff784d08",
-    "signature": "F5LDEWup+/8CF5wF92+piTPewpfC+MQPlUcfFeL7HkQaHT6OX3LaG9UV5UqqxU2+1dUzXaaDlER32NfZMRQIFw==",
+    "sha256": "fbc0b8698dec8720cb4ca3fa1e6bfd64c1299c713f6b3d939a98cba009ddc99d",
+    "signature": "MnAH7VIdxvp9imfHdppiCKTElmYje1PlwzPioaoqFW8tEKBRQ6sZIgzI3wsooo9lSIZbtpK6u5LttaAvqmWoYw==",
     "changelog": [
-      "Добавлена сверка в счётчик - в конце дня можно сравнить результаты. Данные пишутся в таблицу."
+      "Добавлена запись в таблицу данных из задачи"
     ]
   }
 }
