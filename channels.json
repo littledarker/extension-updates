@@ -17,5 +17,14 @@
     "changelog": [
       "first commit in branch"
     ]
+  },
+  "sid": {
+    "version": "0.27.30.28",
+    "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-sid.enc",
+    "sha256": "446bcefd3d9c447662adbd79198ee00a2bbaf028ccd10e7eb9ef339596c8dd0f",
+    "signature": "PFh2HiZDdISjyU2m9D2VjHj8M7YRYeBG5Mkb7rKfCx7614rmna3WFNn3W5+6nkdwI5RhgxDVLVLOUuQKpHLRSw==",
+    "changelog": [
+      "First commit in sid"
+    ]
   }
 }
