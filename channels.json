@@ -19,12 +19,12 @@
     ]
   },
   "sid": {
-    "version": "0.30.2.42",
+    "version": "0.30.2.43",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-sid.enc",
-    "sha256": "8d385c4f9ac86b39fc3d8cb370ae13f251f970072fc78729fcb9049d0ee400cb",
-    "signature": "1XDe9P+hKeLWGL4mppPASPRAAEfpQgXg/MZjPfMpqoFEqhV02OWa34uJf5NDyL83d9oVD5ww9oJMWb41fY0+kA==",
+    "sha256": "a98d74e0d9db6f49f36a2e5754c04e399f395f3a38144c2b05466c2b9715c169",
+    "signature": "Gs4lEHBpjmnPlG4+cHj4/oyAhQ5n3Mz+hmA26s5L2/GZNAxIWgJcejncE0z5S78bfBrWun2mtJpYhZLJ0epnLA==",
     "changelog": [
-      "Добавлена сверка даты проверки + отметка таски Проверка по нажатию кнопки проверки в редакторской"
+      "Исправление ошибок синхронизации webapp с календарём"
     ]
   }
 }
