@@ -19,12 +19,12 @@
     ]
   },
   "sid": {
-    "version": "0.28.1.31",
+    "version": "0.28.2.32",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-sid.enc",
-    "sha256": "5ded89445d4c7428463c705d54f40286951960bc447e7f05a21450aad01d4fda",
-    "signature": "RCH58b37gjmlbnXdfu30bM6i4cEUovbIXFgc71yCL86iwpWVh+5Elji4JYa99QCIVWI3w1bLu2mTCroqq9XfFA==",
+    "sha256": "b382472376f0b977ab5878e9c919bc6d82ba4e2d01f4ce82d46e21b296802790",
+    "signature": "jZHyQmoil3PqZjE0kSG0he4ViQmadHimNbTyIaA93D9SEw/a7F1ivv0Y4EblOifK/w9qYeMfwSex9ZnbwvFfrA==",
     "changelog": [
-      "Исправление резервирования"
+      "Теперь сохраняет в Downloads/dmte-backup"
     ]
   }
 }
