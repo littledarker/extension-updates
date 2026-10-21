@@ -19,12 +19,12 @@
     ]
   },
   "sid": {
-    "version": "0.29.0.35",
+    "version": "0.29.1.36",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-sid.enc",
-    "sha256": "fbc0b8698dec8720cb4ca3fa1e6bfd64c1299c713f6b3d939a98cba009ddc99d",
-    "signature": "MnAH7VIdxvp9imfHdppiCKTElmYje1PlwzPioaoqFW8tEKBRQ6sZIgzI3wsooo9lSIZbtpK6u5LttaAvqmWoYw==",
+    "sha256": "9ae9e6fcf7601f88af3d78a0987d766d2bdf58c31983a57e0471c129d38d266c",
+    "signature": "rj9Cx39Xl2GlmES7h6hXYPZij5j/Dp2BdzGNAnKccrXWjmA5sXRXSnW+es3tnM0CkLf3InZG4ZytiojTiSY6rg==",
     "changelog": [
-      "Добавлена запись в таблицу данных из задачи"
+      "Автозаполнение задач теперь отключаемо"
     ]
   }
 }
