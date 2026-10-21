@@ -19,12 +19,12 @@
     ]
   },
   "sid": {
-    "version": "0.27.30.29",
+    "version": "0.28.0.30",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-sid.enc",
-    "sha256": "d3480fd245c1052bf6b37de08011e18b79d3c62186b4db6cce611f64bf5005bd",
-    "signature": "ikWLQT9tudaF6GMwh3nTMVnC2LQdkWwJ/ArBD/U07ftcjrH9jkKi8XVGFtGwdk+yPydzSSGr+BXOd2mxe/+dGg==",
+    "sha256": "d8327b330a1f0d7ff8efcdb5293f226a0c04a2f8f2a97850e13f694defd5e2e1",
+    "signature": "wjxk+QpbmupbcpW4T/bzpex22570P2FBpe0Syp2ZwdRW4MGh3XAt6HajzP2pniY8k3hmPbn6dUs8YA9JLfcyYg==",
     "changelog": [
-      "Deleting duplicating readme"
+      "Добавлена система резервирования стабильной версии + настроек при смене канала обновления"
     ]
   }
 }
