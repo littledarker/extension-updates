@@ -19,12 +19,12 @@
     ]
   },
   "sid": {
-    "version": "0.28.2.32",
+    "version": "0.28.3.33",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-sid.enc",
-    "sha256": "b382472376f0b977ab5878e9c919bc6d82ba4e2d01f4ce82d46e21b296802790",
-    "signature": "jZHyQmoil3PqZjE0kSG0he4ViQmadHimNbTyIaA93D9SEw/a7F1ivv0Y4EblOifK/w9qYeMfwSex9ZnbwvFfrA==",
+    "sha256": "33930a7609975ef41df0a1b4d23f4bc10a58d8038f3dd4721f664ccafd79fbb3",
+    "signature": "ZvkLhlHVAjqoV9xjh7RKvsk6E+Uj77p0HwjsRDnTXshq9Uld2++J5MVt140VM+PuAjVUYUTHU5/wQMrec27cVw==",
     "changelog": [
-      "Теперь сохраняет в Downloads/dmte-backup"
+      "Добавлена опция сверки через post запрос в админку"
     ]
   }
 }
