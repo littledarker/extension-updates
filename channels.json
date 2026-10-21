@@ -19,12 +19,12 @@
     ]
   },
   "sid": {
-    "version": "0.29.4.40",
+    "version": "0.29.5.41",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-sid.enc",
-    "sha256": "3c61b5e338ed2751befb22df79a8aadb9a3df80278a44ad22c779b3da4f83db3",
-    "signature": "HxW8WTR1un7jsEcdlFhXqre3tzSPZGotIjCxperY0nLZVZFvC7twM6Il0ba3jmRHaYDG7LR4E5kYAzaR3217qQ==",
+    "sha256": "89ec0848dd1d017c656cbf2601d99e423df3d28bdc713a0f6d00b3d9e779eeb3",
+    "signature": "FNyzTBR5Fko7Vu6JERR/NpoKwCeEa3lpOFrqsln5C71b45Q75KQl3wBw2elxK6SY0LWFBkZ2oBMzj8wisf3Acg==",
     "changelog": [
-      "Формулы копирует с предыдущей строки либо игнорирует если они есть"
+      "Убрана лишняя опция в Автозаполнении задачи"
     ]
   }
 }
