@@ -19,12 +19,12 @@
     ]
   },
   "sid": {
-    "version": "0.29.2.37",
+    "version": "0.29.4.38",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-sid.enc",
-    "sha256": "350da57e89a2405b85c1eccbfbe7424edeac4fbfcf5fdd04faa67f6a60cba933",
-    "signature": "6a9KTGGIslVVI+SmUPG+F+Tb76EBYLi+rXUAd+4vuLdLbMUhOQwbnPA029yEGEsWqtWC39KIqWR0bE2av3XcFA==",
+    "sha256": "81df83258cfab29f0b3b7320deb42d457362bf85f7b9bc8443db1dc06b9b636a",
+    "signature": "GlUK/jeDTKIq11FYYh/PBZbA14zgBXgx7HauInusPNuUlqQ1I4bxx1KyNmjV6vjWTulPlrf9yy8PJEI0ddLOHA==",
     "changelog": [
-      "Добавлена трассировка ошибок автозаполнения задач"
+      "Правка багов автозаполнения"
     ]
   }
 }
