@@ -19,12 +19,12 @@
     ]
   },
   "sid": {
-    "version": "0.30.3.44",
+    "version": "0.30.4.46",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-sid.enc",
-    "sha256": "c79105e4f2cb751eba25e9494502a9b3d85f69061ff9aa083f3e72d952fd128e",
-    "signature": "oD1NEQ08nOo0U4+Nz1kLiIgbX1j43VqgKT/8jkDyhezwfuTYxeJqABrCvcqoqxd4JhlboMMn6cy/zoJ2vpxfbw==",
+    "sha256": "2020aa7e6df33e4fd61c41582c8d6581bbf8391d8bb609668e87f47ca8db34b0",
+    "signature": "zKxjhmnx5ZHM9vAg4YlkKe3a8SP85W6R9wd14y0DXnPPGUhjYgqAVh5p2JJ8LAtLGV++zkwynWzwq1lcYQ1cDA==",
     "changelog": [
-      "Исправление ошибок - антибот больше не должен постоянно вылезать в редакторской"
+      "Чуть ускорен процесс обновления"
     ]
   }
 }
