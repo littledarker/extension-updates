@@ -19,12 +19,12 @@
     ]
   },
   "sid": {
-    "version": "0.27.30.28",
+    "version": "0.27.30.29",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-sid.enc",
-    "sha256": "446bcefd3d9c447662adbd79198ee00a2bbaf028ccd10e7eb9ef339596c8dd0f",
-    "signature": "PFh2HiZDdISjyU2m9D2VjHj8M7YRYeBG5Mkb7rKfCx7614rmna3WFNn3W5+6nkdwI5RhgxDVLVLOUuQKpHLRSw==",
+    "sha256": "d3480fd245c1052bf6b37de08011e18b79d3c62186b4db6cce611f64bf5005bd",
+    "signature": "ikWLQT9tudaF6GMwh3nTMVnC2LQdkWwJ/ArBD/U07ftcjrH9jkKi8XVGFtGwdk+yPydzSSGr+BXOd2mxe/+dGg==",
     "changelog": [
-      "First commit in sid"
+      "Deleting duplicating readme"
     ]
   }
 }
