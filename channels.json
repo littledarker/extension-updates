@@ -19,12 +19,12 @@
     ]
   },
   "sid": {
-    "version": "0.28.3.33",
+    "version": "0.28.4.34",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-sid.enc",
-    "sha256": "33930a7609975ef41df0a1b4d23f4bc10a58d8038f3dd4721f664ccafd79fbb3",
-    "signature": "ZvkLhlHVAjqoV9xjh7RKvsk6E+Uj77p0HwjsRDnTXshq9Uld2++J5MVt140VM+PuAjVUYUTHU5/wQMrec27cVw==",
+    "sha256": "bfc0948e0d228ae917e1f55b54cbda9d65c6e443ef6b7297882ea35cff784d08",
+    "signature": "F5LDEWup+/8CF5wF92+piTPewpfC+MQPlUcfFeL7HkQaHT6OX3LaG9UV5UqqxU2+1dUzXaaDlER32NfZMRQIFw==",
     "changelog": [
-      "Добавлена опция сверки через post запрос в админку"
+      "Добавлена сверка в счётчик - в конце дня можно сравнить результаты. Данные пишутся в таблицу."
     ]
   }
 }
