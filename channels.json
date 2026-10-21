@@ -19,12 +19,12 @@
     ]
   },
   "sid": {
-    "version": "0.29.5.41",
+    "version": "0.30.2.42",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-sid.enc",
-    "sha256": "89ec0848dd1d017c656cbf2601d99e423df3d28bdc713a0f6d00b3d9e779eeb3",
-    "signature": "FNyzTBR5Fko7Vu6JERR/NpoKwCeEa3lpOFrqsln5C71b45Q75KQl3wBw2elxK6SY0LWFBkZ2oBMzj8wisf3Acg==",
+    "sha256": "8d385c4f9ac86b39fc3d8cb370ae13f251f970072fc78729fcb9049d0ee400cb",
+    "signature": "1XDe9P+hKeLWGL4mppPASPRAAEfpQgXg/MZjPfMpqoFEqhV02OWa34uJf5NDyL83d9oVD5ww9oJMWb41fY0+kA==",
     "changelog": [
-      "Убрана лишняя опция в Автозаполнении задачи"
+      "Добавлена сверка даты проверки + отметка таски Проверка по нажатию кнопки проверки в редакторской"
     ]
   }
 }
