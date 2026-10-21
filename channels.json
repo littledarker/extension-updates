@@ -19,12 +19,12 @@
     ]
   },
   "sid": {
-    "version": "0.30.2.43",
+    "version": "0.30.3.44",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-sid.enc",
-    "sha256": "a98d74e0d9db6f49f36a2e5754c04e399f395f3a38144c2b05466c2b9715c169",
-    "signature": "Gs4lEHBpjmnPlG4+cHj4/oyAhQ5n3Mz+hmA26s5L2/GZNAxIWgJcejncE0z5S78bfBrWun2mtJpYhZLJ0epnLA==",
+    "sha256": "c79105e4f2cb751eba25e9494502a9b3d85f69061ff9aa083f3e72d952fd128e",
+    "signature": "oD1NEQ08nOo0U4+Nz1kLiIgbX1j43VqgKT/8jkDyhezwfuTYxeJqABrCvcqoqxd4JhlboMMn6cy/zoJ2vpxfbw==",
     "changelog": [
-      "Исправление ошибок синхронизации webapp с календарём"
+      "Исправление ошибок - антибот больше не должен постоянно вылезать в редакторской"
     ]
   }
 }
