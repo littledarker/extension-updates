@@ -19,12 +19,12 @@
     ]
   },
   "sid": {
-    "version": "0.30.5.47",
+    "version": "0.30.6.48",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-sid.enc",
-    "sha256": "494d837183bd7a8b3ca6d8a1e2d889ef67da176bcbb019261ff860e17c0e7460",
-    "signature": "eHimc1vanvH70b12naK8YdSVeIAfntsu3qwZWPwKUxxSCXrJTfDjnGd7EICEmKBRA/1eUiL1yZvBKnzjkPlcLw==",
+    "sha256": "7f61dc4068ffc87f10145c97db35f77d038806a8019e9b0a6321f53b6f483cb1",
+    "signature": "jUsWH/yFzcRl/oQ9hyh12EKHLHdXVUI4M1kWdmsbDoWFVtGU9gabwIMXvWIltLD0sFViGfLomSdGxZAKMMCQZg==",
     "changelog": [
-      "Исправление ошибки google sync lockout"
+      "Добавлено автозаполнение по факту выполнения задачи"
     ]
   }
 }
