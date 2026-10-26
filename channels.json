@@ -19,12 +19,12 @@
     ]
   },
   "sid": {
-    "version": "0.30.6.49",
+    "version": "0.30.7.50",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-sid.enc",
-    "sha256": "474e163a3364c1536c8e46a38bab01d4fa67a935a2b29c0b23480144d8924d37",
-    "signature": "Gg6Y4t21yUY1babeMvX8We70Kvn/bdyBWZVh05sm74K3PoTh9vdv9pzMgpDdJ1rakHv+VXS2r/p8HIaZQ0QFTg==",
+    "sha256": "7a5c7520558e7d87bc395174842ef9b521f4942b3c1fc165d43bee2ac6294e45",
+    "signature": "IWnGxDSeGZQaAb6CbPS7nlQbCXBXdNMQG23Yt37NfpWAZy/LTMLqXxL/Oxp2nrmO49RaqazbBq5Js/YiEF0cyw==",
     "changelog": [
-      "Убрано создание дубликатов текущих тасков Проверка и Чек"
+      "Автозаполнение задач выключено по умолчанию"
     ]
   }
 }
