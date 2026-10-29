@@ -19,12 +19,12 @@
     ]
   },
   "sid": {
-    "version": "0.30.7.50",
+    "version": "0.30.8.51",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-sid.enc",
-    "sha256": "7a5c7520558e7d87bc395174842ef9b521f4942b3c1fc165d43bee2ac6294e45",
-    "signature": "IWnGxDSeGZQaAb6CbPS7nlQbCXBXdNMQG23Yt37NfpWAZy/LTMLqXxL/Oxp2nrmO49RaqazbBq5Js/YiEF0cyw==",
+    "sha256": "dce61f62426a06d7c79307f4ec25a91785537562bbd4b89548670eea838abeab",
+    "signature": "B6O0kfDUCXaNCznb4tQwHWkuyn6PsFNPjnm2YsLFbRNYqEudgyuMrfkpmE2x7fo+HFYx0rSi6exgI6h0pmrzkg==",
     "changelog": [
-      "Автозаполнение задач выключено по умолчанию"
+      "Исправлена вставка ссылок в шаблонах"
     ]
   }
 }
