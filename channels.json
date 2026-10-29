@@ -19,12 +19,12 @@
     ]
   },
   "sid": {
-    "version": "0.30.8.51",
+    "version": "0.30.9.52",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-sid.enc",
-    "sha256": "dce61f62426a06d7c79307f4ec25a91785537562bbd4b89548670eea838abeab",
-    "signature": "B6O0kfDUCXaNCznb4tQwHWkuyn6PsFNPjnm2YsLFbRNYqEudgyuMrfkpmE2x7fo+HFYx0rSi6exgI6h0pmrzkg==",
+    "sha256": "c65b66aae3527a2e6c9edd4c41a6f0e963cc09b03aa17acd32148ebfe68f5767",
+    "signature": "wFibGHG3znT0F3mJWT/y9zUtGilnaH92HPQYHnwR8o2tR3sO4RD2zfbNE/NK0FUVx4KNPaYQRhtm27kLTeo8bg==",
     "changelog": [
-      "Исправлена вставка ссылок в шаблонах"
+      "Исправление апдейтера"
     ]
   }
 }
