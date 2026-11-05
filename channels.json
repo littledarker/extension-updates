@@ -19,12 +19,12 @@
     ]
   },
   "sid": {
-    "version": "0.30.9.52",
+    "version": "0.31.0.53",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-sid.enc",
-    "sha256": "c65b66aae3527a2e6c9edd4c41a6f0e963cc09b03aa17acd32148ebfe68f5767",
-    "signature": "wFibGHG3znT0F3mJWT/y9zUtGilnaH92HPQYHnwR8o2tR3sO4RD2zfbNE/NK0FUVx4KNPaYQRhtm27kLTeo8bg==",
+    "sha256": "d28d2589c8703360dd18bff9e1b7e790e4c3e45a8259285d53d0b194642cfb10",
+    "signature": "5XYN8IurscsHsL9/+TvF3e3TpOcUo3+9SytHX5un+UiuKk4dpNbAsQ8/d7gF41iVgYkT7P53My3IdzCSdXBcAQ==",
     "changelog": [
-      "Исправление апдейтера"
+      "Таск Оферта отмечается выполненным, если в редакторской есть индикатор \"Оферта принята\""
     ]
   }
 }
