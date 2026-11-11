@@ -19,12 +19,12 @@
     ]
   },
   "sid": {
-    "version": "0.34.1.58",
+    "version": "0.34.2.59",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-sid.enc",
-    "sha256": "1165ae9316dba350f9007da42aebb2b119a427d11782abe83958b4d56fe3cd58",
-    "signature": "i5hG3RiwyukqH/dxoINlgaM6vCG8RlyYLZbBP3iBt14Qi/zhr3aOGT/B7H+08fM5f1o87n2kVRGQwOOZbx5jTg==",
+    "sha256": "67a37232545cf7233ffd1f80d6e196068635a438ed24b21254aa0a394bc1bc31",
+    "signature": "k+6FBWP4zyRmnwoyq9coX877TuvuPnHKCmADHQASyqwGiSDr5RHyBcvKNxEZa+U9F5gMOGpVAXKa+7YhsrCvAg==",
     "changelog": [
-      "Поле времени автосверки без AM/PM — только 24ч ЧЧ:ММ.",
+      "Автосверка показывает результат на виджете во всех вкладках",
       "Co-authored-by: Cursor <cursoragent@cursor.com>"
     ]
   }
