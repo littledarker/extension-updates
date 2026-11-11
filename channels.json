@@ -19,12 +19,12 @@
     ]
   },
   "sid": {
-    "version": "0.31.0.54",
+    "version": "0.32.0.55",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-sid.enc",
-    "sha256": "c660cbbe6f1c8c12e4397880990f27efba6e7a7a84a8f561cce123eba72f8a77",
-    "signature": "bjJQpybFM5XVL1d/YM0a7Q+dp8mitS7dRp+yuWiVZaF5jMFBXtupP7w8KvmiNhdLwT8BmIDLXFnUGN5+6bDHIg==",
+    "sha256": "c07fbde420662acf84e1af6760274b227998734220b9f4da8fa294a92fa35aa4",
+    "signature": "M7Cgd6xbKzjqvB8gAQWeIq3loWFCB0WTPgp4VMG8OVF1KcOrM25h1m+GckJaKAiFGMMIfIG7EXL8GeR3VHqFbw==",
     "changelog": [
-      "Не создавать дубликат Чек/Проверка, если таска уже есть",
+      "Добавлена автосверка счётчика в заданное местное время",
       "Co-authored-by: Cursor <cursoragent@cursor.com>"
     ]
   }
