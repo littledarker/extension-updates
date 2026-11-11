@@ -19,12 +19,12 @@
     ]
   },
   "sid": {
-    "version": "0.32.0.55",
+    "version": "0.33.0.56",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-sid.enc",
-    "sha256": "c07fbde420662acf84e1af6760274b227998734220b9f4da8fa294a92fa35aa4",
-    "signature": "M7Cgd6xbKzjqvB8gAQWeIq3loWFCB0WTPgp4VMG8OVF1KcOrM25h1m+GckJaKAiFGMMIfIG7EXL8GeR3VHqFbw==",
+    "sha256": "1d18f619f30c6676fa8f464a0ba1c19c617d765ec449714556e8b1141abd53bd",
+    "signature": "swyR8QwIg7IMBDpMBVARWA16hR0oc1mtH16rYkwQlc5xV155vcCjy9vytJdT6rDKyYhYva7U3Xin9x9zDZZoBQ==",
     "changelog": [
-      "Добавлена автосверка счётчика в заданное местное время",
+      "Автоподхват ID модератора из фильтра «Ник» после «Найти».",
       "Co-authored-by: Cursor <cursoragent@cursor.com>"
     ]
   }
