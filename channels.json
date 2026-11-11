@@ -19,12 +19,12 @@
     ]
   },
   "sid": {
-    "version": "0.33.0.56",
+    "version": "0.34.0.57",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-sid.enc",
-    "sha256": "1d18f619f30c6676fa8f464a0ba1c19c617d765ec449714556e8b1141abd53bd",
-    "signature": "swyR8QwIg7IMBDpMBVARWA16hR0oc1mtH16rYkwQlc5xV155vcCjy9vytJdT6rDKyYhYva7U3Xin9x9zDZZoBQ==",
+    "sha256": "301edbc0c5483326de73e6522e2418d6f0b95e92fd1f51ef456d67cabe386352",
+    "signature": "+m5U8fY8ueep4cwfOmmqiidZ7+YHnOUmTkYzfpOwB5zCrGU/vW2eVMvnIy/LCoZ2Ht/B0v/QxiWr7lH822GROA==",
     "changelog": [
-      "Автоподхват ID модератора из фильтра «Ник» после «Найти».",
+      "Подсветка «Сравнить», время автосверки и формат ДД.ММ.ГГГГ / 24ч.",
       "Co-authored-by: Cursor <cursoragent@cursor.com>"
     ]
   }
