@@ -19,12 +19,12 @@
     ]
   },
   "sid": {
-    "version": "0.35.10.69",
+    "version": "0.35.13.70",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-sid.enc",
-    "sha256": "cfa555d7f663ad3b97e26ca90a869e0bf0da64d0ddbd09e3392e560c79cf965a",
-    "signature": "E+aBkuhqunWqjfPwF7wZsxC6TAFDHfHeIz2hv3BjePo4iEOLgF/5O+/qeKBqJgxH0p2COvI1pgFibJRJKoJyCw==",
+    "sha256": "c59c745c79ed5136e38e2d07bbe9c9d1ab73f78f29a841118090420915498708",
+    "signature": "kvEGMezco959W416Lc5pgbwyXrfHNSYN2oizgtL2cUPW7YeSZ00OoCmMS9MF59jeexDMfRNC2OnE+D1j0dJXwA==",
     "changelog": [
-      "Open queue tabs via background and dismiss leftover warn modal.",
+      "Match Newreg only on Club: недавно and unchecked status.",
       "Co-authored-by: Cursor <cursoragent@cursor.com>"
     ]
   }
