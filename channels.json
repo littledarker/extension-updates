@@ -19,12 +19,12 @@
     ]
   },
   "sid": {
-    "version": "0.35.3.63",
+    "version": "0.35.5.64",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-sid.enc",
-    "sha256": "7d511c50630d4d26680fc5e5aa74309318741b36d4568e6691d84bc32ca09517",
-    "signature": "pyEXCupK0MHZJGETvFCWo0GXRsEh5gNEQwzv4PYAzXwWvDD1doyUdnvFVhjES5p40mAKtpdrhG5bnax4OzM64g==",
+    "sha256": "0e9b31620754a1cb1bf5e48457e0a85da5adf724c6a9c243f9fb896097d3e58a",
+    "signature": "tG/Wo79gXHHufd6Hs6PQkt38yJP9fEw4G+ujsHFXT7a+hCnS4PjjgsN6YEWcHoRLjHa+XEJ+8ZDnVEf6HwQxKw==",
     "changelog": [
-      "Trigger Newreg watch patterns on the first comment.",
+      "Require recent Пришелец nicknames and harden front warn flow.",
       "Co-authored-by: Cursor <cursoragent@cursor.com>"
     ]
   }
