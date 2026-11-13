@@ -19,12 +19,12 @@
     ]
   },
   "sid": {
-    "version": "0.35.9.68",
+    "version": "0.35.10.69",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-sid.enc",
-    "sha256": "911bf6b2be415e2bbc6e611086084a9a165ae6719750cd22f919e959e6929815",
-    "signature": "67GRyb6M5eAkPswAtACiqqwrq6N8ebiq1TGV0asuo+EZ58DYK8RXnOovxFMMy39XT0PoSZn17BU5EvX9r5cFLA==",
+    "sha256": "cfa555d7f663ad3b97e26ca90a869e0bf0da64d0ddbd09e3392e560c79cf965a",
+    "signature": "E+aBkuhqunWqjfPwF7wZsxC6TAFDHfHeIz2hv3BjePo4iEOLgF/5O+/qeKBqJgxH0p2COvI1pgFibJRJKoJyCw==",
     "changelog": [
-      "Do not treat non-recent guest cards as Newreg matches.",
+      "Open queue tabs via background and dismiss leftover warn modal.",
       "Co-authored-by: Cursor <cursoragent@cursor.com>"
     ]
   }
