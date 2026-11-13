@@ -19,12 +19,12 @@
     ]
   },
   "sid": {
-    "version": "0.35.0.60",
+    "version": "0.35.1.61",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-sid.enc",
-    "sha256": "65f450301aa5ecef2a9dd9ccf54cdebf63dcfe3ff90b5d73143d915e7873626f",
-    "signature": "8/Pd6IfyRKdr2WepTB5dFvZvy5gZrKMQqyCkVu0U1cqvnld8wKRZtN/AA4VoooLVmRYxwKbDBK0e/TmfpusYbg==",
+    "sha256": "b7769eec162ee226c9ef211f38a2e6da9704e1099ed3b3a17032dec4ecf30082",
+    "signature": "rOlUr/Wg9uF0/1AJLZyDuHzGvyB0/t1cFNWZZ+2y45T1Sw+r6Ko88/kuY4JWcgdJAshE4bXioFqf4YVdIrJ1FQ==",
     "changelog": [
-      "Add experimental Newreg watch module for queue warn/delete.",
+      "Limit Newreg watch to Пришелец-* guest nicknames.",
       "Co-authored-by: Cursor <cursoragent@cursor.com>"
     ]
   }
