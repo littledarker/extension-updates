@@ -19,12 +19,12 @@
     ]
   },
   "sid": {
-    "version": "0.35.7.66",
+    "version": "0.35.8.67",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-sid.enc",
-    "sha256": "96621b2800433cabea2be64a9d0a126a755717ded0f7ea1b8fcdde8426bd10ad",
-    "signature": "cHv0AlTh8vrL54ZyFdUoYqwUze4pYTu+uR8gjS4WDkxYGWrliZ9WDwgxv4wqaxWbBwH250LFv82Ed4bnbO56Sw==",
+    "sha256": "900d2aaeabe5f71203f72c36867eb40adfb12e1df9a062db46eec68c300dc761",
+    "signature": "itMomVvL/kAreBfGHZshesTCQSgHJGfkN+nFOdkYSIZjgS5A0DzB1lLHlNWfA3YAkG46oVzf6HRnA14giK/tmg==",
     "changelog": [
-      "Fix newreg detection skipping cards without front URL.",
+      "Fix newreg year parse so 2026 dates count as recent.",
       "Co-authored-by: Cursor <cursoragent@cursor.com>"
     ]
   }
