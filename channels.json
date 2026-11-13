@@ -19,12 +19,12 @@
     ]
   },
   "sid": {
-    "version": "0.35.1.61",
+    "version": "0.35.2.62",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-sid.enc",
-    "sha256": "b7769eec162ee226c9ef211f38a2e6da9704e1099ed3b3a17032dec4ecf30082",
-    "signature": "rOlUr/Wg9uF0/1AJLZyDuHzGvyB0/t1cFNWZZ+2y45T1Sw+r6Ko88/kuY4JWcgdJAshE4bXioFqf4YVdIrJ1FQ==",
+    "sha256": "2557660109f253737ce4dc452f0d791af6d234128464540a55234e4a6055c102",
+    "signature": "mDvGypFCYVQSkh5rbZJdhE2VVMUxiS6T+r1oonjlQCD9Z2PtiaJpGIfHTiis8+0N4HwE9XOt4lsA4+59F/82zQ==",
     "changelog": [
-      "Limit Newreg watch to Пришелец-* guest nicknames.",
+      "Place Newreg watch panel under entity-counter with matching styles.",
       "Co-authored-by: Cursor <cursoragent@cursor.com>"
     ]
   }
