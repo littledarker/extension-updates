@@ -19,12 +19,12 @@
     ]
   },
   "sid": {
-    "version": "0.35.8.67",
+    "version": "0.35.9.68",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-sid.enc",
-    "sha256": "900d2aaeabe5f71203f72c36867eb40adfb12e1df9a062db46eec68c300dc761",
-    "signature": "itMomVvL/kAreBfGHZshesTCQSgHJGfkN+nFOdkYSIZjgS5A0DzB1lLHlNWfA3YAkG46oVzf6HRnA14giK/tmg==",
+    "sha256": "911bf6b2be415e2bbc6e611086084a9a165ae6719750cd22f919e959e6929815",
+    "signature": "67GRyb6M5eAkPswAtACiqqwrq6N8ebiq1TGV0asuo+EZ58DYK8RXnOovxFMMy39XT0PoSZn17BU5EvX9r5cFLA==",
     "changelog": [
-      "Fix newreg year parse so 2026 dates count as recent.",
+      "Do not treat non-recent guest cards as Newreg matches.",
       "Co-authored-by: Cursor <cursoragent@cursor.com>"
     ]
   }
