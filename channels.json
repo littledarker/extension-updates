@@ -19,12 +19,12 @@
     ]
   },
   "sid": {
-    "version": "0.35.5.64",
+    "version": "0.35.6.65",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-sid.enc",
-    "sha256": "0e9b31620754a1cb1bf5e48457e0a85da5adf724c6a9c243f9fb896097d3e58a",
-    "signature": "tG/Wo79gXHHufd6Hs6PQkt38yJP9fEw4G+ujsHFXT7a+hCnS4PjjgsN6YEWcHoRLjHa+XEJ+8ZDnVEf6HwQxKw==",
+    "sha256": "58cbb5a76f772020daf20bcb3bb3c7164f40ccc57caa1ef56d4dfb003b4c04f0",
+    "signature": "KV+dOpETHVSoBZAWX3jzDRafNEa62k9pIz+fFWM3pPPacCo/x/xenmxBnsqxrwZQ55P/SEMAWOWqX3oIbizOQQ==",
     "changelog": [
-      "Require recent Пришелец nicknames and harden front warn flow.",
+      "Fix newreg date parsing and require zero article/QA counters.",
       "Co-authored-by: Cursor <cursoragent@cursor.com>"
     ]
   }
