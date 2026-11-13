@@ -19,12 +19,12 @@
     ]
   },
   "sid": {
-    "version": "0.35.2.62",
+    "version": "0.35.3.63",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-sid.enc",
-    "sha256": "2557660109f253737ce4dc452f0d791af6d234128464540a55234e4a6055c102",
-    "signature": "mDvGypFCYVQSkh5rbZJdhE2VVMUxiS6T+r1oonjlQCD9Z2PtiaJpGIfHTiis8+0N4HwE9XOt4lsA4+59F/82zQ==",
+    "sha256": "7d511c50630d4d26680fc5e5aa74309318741b36d4568e6691d84bc32ca09517",
+    "signature": "pyEXCupK0MHZJGETvFCWo0GXRsEh5gNEQwzv4PYAzXwWvDD1doyUdnvFVhjES5p40mAKtpdrhG5bnax4OzM64g==",
     "changelog": [
-      "Place Newreg watch panel under entity-counter with matching styles.",
+      "Trigger Newreg watch patterns on the first comment.",
       "Co-authored-by: Cursor <cursoragent@cursor.com>"
     ]
   }
