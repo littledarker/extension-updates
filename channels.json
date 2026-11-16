@@ -19,12 +19,12 @@
     ]
   },
   "sid": {
-    "version": "0.36.12.82",
+    "version": "0.36.13.83",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-sid.enc",
-    "sha256": "094224e0f10fb26f61b84d659967d4bbca02104b01bec3f57e8b5bb66f21b8d5",
-    "signature": "46EfAfL8e3tvdi/2BdmDGBgWiyqiDViFB5Wwlcl2tF7n/9eZumeSiMy4sEfaWAqLw9jSd4ZTqJwZ5LUHwZQD2A==",
+    "sha256": "b09fff44fd896c8453b0b653ce7f9e173e9f7b2e0fc9418e936a934b0b19cafa",
+    "signature": "SAYJnOFGnEPUKAgiQJEe/czVqaaTCAr44MIjopJtBSriKN3oVwOn6YxgOfnrdLHbByjN4PZwltcARj6WLgZacA==",
     "changelog": [
-      "Group word-filter by category blocks; default exact; new import format.",
+      "Fix word rows missing under category headers in editor.",
       "Co-authored-by: Cursor <cursoragent@cursor.com>"
     ]
   }
