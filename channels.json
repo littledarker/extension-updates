@@ -19,12 +19,12 @@
     ]
   },
   "sid": {
-    "version": "0.36.8.78",
+    "version": "0.36.9.79",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-sid.enc",
-    "sha256": "cc054828389ed05e840867d8f0915af149e6d31b45585c44016f0aa13bd020bb",
-    "signature": "AXDpQl6l7TY4PfeEMwqgJ/P8vC/8Itd4snjr8PPIjVqTMQ/oBc+eJgOaw7k4YkXhCJcL3QQ2Asy7daeZtMB94g==",
+    "sha256": "0adac4c9632391fb0910c2c7561473ec5294e02a3a9076ec2b5e5a8abe312183",
+    "signature": "pVzlgwMTQEUr0JCqS9EMN6WOYsKDlFad78rBrAiE6eQ2JPYLrTQmWDqauWujMNPylwsQTb/ej+3+yj+OyEGEgw==",
     "changelog": [
-      "Add fixed scroll-to-search button in word-filter editor.",
+      "Fix scroll-to-top to scroll list instead of focusing search.",
       "Co-authored-by: Cursor <cursoragent@cursor.com>"
     ]
   }
