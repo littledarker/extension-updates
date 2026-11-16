@@ -10,12 +10,12 @@
     ]
   },
   "testing": {
-    "version": "0.37.1.88",
+    "version": "0.37.2.89",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-testing.enc",
-    "sha256": "af97ec211aa074c803782491dfff17b3f7675e5ee51af69cbd76bd05a6d343c3",
-    "signature": "nyE+2cP+jqhRef8QL/eB9UsrGs/FIH0J6qchG6emhUWOaHtncQkaXxtDpBILeK7LXbZFTX7LW/NvFA7zt/yAkg==",
+    "sha256": "cfda1f07eeda6c3d997551703ae135cfd5b305caa2b8b22caca21da0bea75e89",
+    "signature": "3j2UcRje6cmPD4ycV896M3tr1jI7U37whdkfnyK+yWXAVfVbleyXBQthoAVf9YrdInGxkTq1XSrcemHD9TXhrQ==",
     "changelog": [
-      "Move update channel radios into the updater header row.",
+      "Keep module version at the end of the header row.",
       "Co-authored-by: Cursor <cursoragent@cursor.com>"
     ]
   },
