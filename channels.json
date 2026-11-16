@@ -10,12 +10,12 @@
     ]
   },
   "testing": {
-    "version": "0.36.16.86",
+    "version": "0.37.0.87",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-testing.enc",
-    "sha256": "8616969cea7264c3730280928e00f5d647ea25514399aa85ba0ee4b1c4342da6",
-    "signature": "NSNf394TCW2ixpEYYRaujQm8qNT07//qviwcvw8xWGzpkkscb7IvukvtmnIbsDh8xyb6/b31TXWaAM8uGwP0iA==",
+    "sha256": "eb1d76843cb61005c96444fb9098e66af5f6b699bd46c81e522096e97be7d144",
+    "signature": "yLY/cUHXIC3nLa8WcJWuOWBOYmbgAPY6vGzfGTFe5w77qUOpI/KNkq1PFGcLNsvdbkrk38+rbLXID6TQM8vy+Q==",
     "changelog": [
-      "Put module toggle, title, version, and settings on one row.",
+      "Stop gallery wrap at ends and toast when first/last photo is reached.",
       "Co-authored-by: Cursor <cursoragent@cursor.com>"
     ]
   },
