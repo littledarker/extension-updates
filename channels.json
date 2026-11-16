@@ -10,12 +10,12 @@
     ]
   },
   "testing": {
-    "version": "0.37.0.87",
+    "version": "0.37.1.88",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-testing.enc",
-    "sha256": "eb1d76843cb61005c96444fb9098e66af5f6b699bd46c81e522096e97be7d144",
-    "signature": "yLY/cUHXIC3nLa8WcJWuOWBOYmbgAPY6vGzfGTFe5w77qUOpI/KNkq1PFGcLNsvdbkrk38+rbLXID6TQM8vy+Q==",
+    "sha256": "af97ec211aa074c803782491dfff17b3f7675e5ee51af69cbd76bd05a6d343c3",
+    "signature": "nyE+2cP+jqhRef8QL/eB9UsrGs/FIH0J6qchG6emhUWOaHtncQkaXxtDpBILeK7LXbZFTX7LW/NvFA7zt/yAkg==",
     "changelog": [
-      "Stop gallery wrap at ends and toast when first/last photo is reached.",
+      "Move update channel radios into the updater header row.",
       "Co-authored-by: Cursor <cursoragent@cursor.com>"
     ]
   },
