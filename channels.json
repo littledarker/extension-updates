@@ -19,12 +19,12 @@
     ]
   },
   "sid": {
-    "version": "0.36.13.83",
+    "version": "0.36.14.84",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-sid.enc",
-    "sha256": "b09fff44fd896c8453b0b653ce7f9e173e9f7b2e0fc9418e936a934b0b19cafa",
-    "signature": "SAYJnOFGnEPUKAgiQJEe/czVqaaTCAr44MIjopJtBSriKN3oVwOn6YxgOfnrdLHbByjN4PZwltcARj6WLgZacA==",
+    "sha256": "d509965e7172e78614d22a1774f3159a61fe1690c70d86d428d8c0ce720b181a",
+    "signature": "dU1ezIipTcctSosP1aLQ+7ZUcwnpLtsDxVGkoURF2x9aOLwJg41ilINcblNOA06hmCYtIoXlP8Q8gJybjdxW/Q==",
     "changelog": [
-      "Fix word rows missing under category headers in editor.",
+      "Rename Newreg watch to Детектор твинков; default reason Твинк аккаунт.",
       "Co-authored-by: Cursor <cursoragent@cursor.com>"
     ]
   }
