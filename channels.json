@@ -10,12 +10,12 @@
     ]
   },
   "testing": {
-    "version": "0.36.15.85",
+    "version": "0.36.16.86",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-testing.enc",
-    "sha256": "7863b64933ca3c18346029e55894d4090171474aac659a86bbccb023cf62a608",
-    "signature": "94E7dl1E2nbmRQg3muYk7VSp8Ws8TvesvsfKYvwyirRPy09ctG9g9NrZ+MT2tnl+QWUi2tBfY36usmJQ8u1Eyg==",
+    "sha256": "8616969cea7264c3730280928e00f5d647ea25514399aa85ba0ee4b1c4342da6",
+    "signature": "NSNf394TCW2ixpEYYRaujQm8qNT07//qviwcvw8xWGzpkkscb7IvukvtmnIbsDh8xyb6/b31TXWaAM8uGwP0iA==",
     "changelog": [
-      "Restructure modules settings layout and quiet update notifications.",
+      "Put module toggle, title, version, and settings on one row.",
       "Co-authored-by: Cursor <cursoragent@cursor.com>"
     ]
   },
