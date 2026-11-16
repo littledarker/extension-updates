@@ -19,12 +19,12 @@
     ]
   },
   "sid": {
-    "version": "0.36.2.73",
+    "version": "0.36.3.74",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-sid.enc",
-    "sha256": "48494d7b53f596b6c59732a1a25a0fc8833f13058f95992ea1eb612139dae229",
-    "signature": "0cBooL21IRq5XRYnic5Yc0vJ71Z8HjI2+ZcU8IGBO7mYtksPxQyxNMgl8W5yvj3uXpSHfBRdU41KniT4JbGbqw==",
+    "sha256": "f896683e88bf6ed37255b40ac2278e3e0fd11a05a8c9b94a6849f2bc3a2a2a56",
+    "signature": "W3Orr4rIdpxJvapnfsV/ASu8c2exginAIYymvTXwzW7Phqk1YtfKDbaweYxLO4Ri+D//XVcIMkpAKDSvXH7mhA==",
     "changelog": [
-      "Document word-filter import flags and seed the starter dictionary.",
+      "Speed up word-filter scans and add Sheets-like color palette with local cache.",
       "Co-authored-by: Cursor <cursoragent@cursor.com>"
     ]
   }
