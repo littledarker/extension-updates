@@ -19,12 +19,12 @@
     ]
   },
   "sid": {
-    "version": "0.36.7.77",
+    "version": "0.36.8.78",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-sid.enc",
-    "sha256": "9f5265a0f5911e99f4f81fdac21ca39c0ca1ba03d84ec5180ff62f4b617525c3",
-    "signature": "iI9qxy2qHW2DzVw8hBRLACQdz9NOWdihdVqeFLelD6IQU72XdVJ0vr8o3HEHDsySFPtLMxHhwNoYap/8ODGxpw==",
+    "sha256": "cc054828389ed05e840867d8f0915af149e6d31b45585c44016f0aa13bd020bb",
+    "signature": "AXDpQl6l7TY4PfeEMwqgJ/P8vC/8Itd4snjr8PPIjVqTMQ/oBc+eJgOaw7k4YkXhCJcL3QQ2Asy7daeZtMB94g==",
     "changelog": [
-      "Compact word-filter rows and sticky prev/next search.",
+      "Add fixed scroll-to-search button in word-filter editor.",
       "Co-authored-by: Cursor <cursoragent@cursor.com>"
     ]
   }
