@@ -19,12 +19,12 @@
     ]
   },
   "sid": {
-    "version": "0.36.5.75",
+    "version": "0.36.6.76",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-sid.enc",
-    "sha256": "d83413479b3740e62ebd3710cfcca5046d2437e41280fe7fc7a8fb2e14d8c26a",
-    "signature": "L8itkbC+29oywxN7ASPwT/7x1qlU78BKUVzjfdwyleX4177VvAMn+5TaZLkNvpZ6pIRPg1ks6rtG0m6R1ecgMA==",
+    "sha256": "f0de813956b333bc071dd39494585a59f799b691e79aaca0f1971db081598ba6",
+    "signature": "dmeUgUJrE4nTh5OJxQauZECzf0EXBbWXSaJOG8PTgLimBZlGObDlZzIsS3WAO1Cncb+PYXdK1kxnPt3Wi1+lPA==",
     "changelog": [
-      "Extend word-filter to on-air feed and clarify Google sync errors.",
+      "Improve word-filter editor: stricter dedupe, inline add, and word search.",
       "Co-authored-by: Cursor <cursoragent@cursor.com>"
     ]
   }
