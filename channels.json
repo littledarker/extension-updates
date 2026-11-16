@@ -19,12 +19,12 @@
     ]
   },
   "sid": {
-    "version": "0.36.10.80",
+    "version": "0.36.11.81",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-sid.enc",
-    "sha256": "dbab8df629df00ea0b88d6b081b79f4d598c28f8bc8cfe8ffe915bb483a22981",
-    "signature": "NGJILmWinxyJTdN1LVXeKevWOHvbSVWY+XduV6V+IOrpfUIC0tP9B2w/twFeHKgFJjQk6qW8R2rN+02Ey29O9g==",
+    "sha256": "251f216b990bf469bcdc36dbdf2cc4dd9aa8e46103603acf54b2d2bd525dff75",
+    "signature": "ybwirZmcZ+vRJIo6nhYy9Suz7T7na90OcWTFCMTUUPCosKTF6XmhhOMQvKEAWgRDj35G3xrq4Ezaj72SXiqdyg==",
     "changelog": [
-      "Fix scroll-to-top via non-sticky list anchor.",
+      "Reject duplicate words when adding in word-filter editor.",
       "Co-authored-by: Cursor <cursoragent@cursor.com>"
     ]
   }
