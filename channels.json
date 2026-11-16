@@ -10,12 +10,12 @@
     ]
   },
   "testing": {
-    "version": "0.37.6.93",
+    "version": "0.37.7.94",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-testing.enc",
-    "sha256": "098488d1b491f313f50cdc10f6d3cee7564dc4a69cdbbc0cb25b429c5eb0761b",
-    "signature": "9wh6pFvTCS7HZdlKbFGJN6s1CsdTXU0GVCc5y5HOxwL7NIkLITgvu0kIUXArnnAsyZYMuJ7IwpPeDn5nXKMDKw==",
+    "sha256": "0ad4b3d007b1a823c1665f6471cb43bff47cb2761adaf7804bd3acb8dc6d932c",
+    "signature": "x0CZ9EweY/r5VmOAYzK42WwP4mIvlwb9qctTrUOAHU3iyAxzZuGDBqAEcAnA0hW35OaJxIpqmOt0tgdu66wPOw==",
     "changelog": [
-      "Use a fixed two-line module header instead of overlap fitting.",
+      "Restyle settings UI to match DNS club admin colors.",
       "Co-authored-by: Cursor <cursoragent@cursor.com>"
     ]
   },
