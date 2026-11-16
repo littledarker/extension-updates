@@ -10,12 +10,12 @@
     ]
   },
   "testing": {
-    "version": "0.37.3.90",
+    "version": "0.37.4.91",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-testing.enc",
-    "sha256": "50a8e9c0ed012e7c78dc979ff2797e0522bd6cd08f9503d15fb983cf3f8a319d",
-    "signature": "VLyWZt5sGWGw6AtVlyaxoF3IHB+YKfftVBatV9587ySSuVOHcwK69weQkN79hDgYdzjam+xbl4fjsSgyZ14n5A==",
+    "sha256": "5dc3cf449e8f488170fff2f0031dce61e764653c20394226963cbeaae392911a",
+    "signature": "rlMwc93P61o6rpZKgtYjg5w9VgALd1vUfoW8HTaPFWhovlTb/twLmcZDedGwJ/Q/3wZTp9AzzyK3jj7IReKCEg==",
     "changelog": [
-      "Show modules as grouped responsive cards in landscape.",
+      "Wrap settings buttons to a second line when the header overflows.",
       "Co-authored-by: Cursor <cursoragent@cursor.com>"
     ]
   },
