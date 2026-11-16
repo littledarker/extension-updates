@@ -19,12 +19,12 @@
     ]
   },
   "sid": {
-    "version": "0.35.14.71",
+    "version": "0.36.0.72",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-sid.enc",
-    "sha256": "97f4a100b911d572d85fdb6de501e55fdbd9c0bdc2ab5fa5a71764857ac239fe",
-    "signature": "WXYy4PuwViMxdTjsNy5ouZaUPUMNjDWYH0RoqIPb28GvX+42G80uKFHd5eqkv/IJAJlj9nfQehZLihO35jABUw==",
+    "sha256": "ea789ae71f3c3db91e3229cf2e3b4bbffaf070396eb49f011543b735d31ff53c",
+    "signature": "7AVBvstp9SgJUp2n/KVPmtG+yAKP0k3HL210VHT0bjHkgjYzfbCxEOKfg6r1vJqf+9bXPhJ5andJkopgHE9P2A==",
     "changelog": [
-      "Require admin checkbox before enqueueing Newreg targets.",
+      "﻿Add word-filter module with category highlighting and CSV/Google sync.",
       "Co-authored-by: Cursor <cursoragent@cursor.com>"
     ]
   }
