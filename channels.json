@@ -19,12 +19,12 @@
     ]
   },
   "sid": {
-    "version": "0.36.11.81",
+    "version": "0.36.12.82",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-sid.enc",
-    "sha256": "251f216b990bf469bcdc36dbdf2cc4dd9aa8e46103603acf54b2d2bd525dff75",
-    "signature": "ybwirZmcZ+vRJIo6nhYy9Suz7T7na90OcWTFCMTUUPCosKTF6XmhhOMQvKEAWgRDj35G3xrq4Ezaj72SXiqdyg==",
+    "sha256": "094224e0f10fb26f61b84d659967d4bbca02104b01bec3f57e8b5bb66f21b8d5",
+    "signature": "46EfAfL8e3tvdi/2BdmDGBgWiyqiDViFB5Wwlcl2tF7n/9eZumeSiMy4sEfaWAqLw9jSd4ZTqJwZ5LUHwZQD2A==",
     "changelog": [
-      "Reject duplicate words when adding in word-filter editor.",
+      "Group word-filter by category blocks; default exact; new import format.",
       "Co-authored-by: Cursor <cursoragent@cursor.com>"
     ]
   }
