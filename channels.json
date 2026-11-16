@@ -19,12 +19,12 @@
     ]
   },
   "sid": {
-    "version": "0.36.6.76",
+    "version": "0.36.7.77",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-sid.enc",
-    "sha256": "f0de813956b333bc071dd39494585a59f799b691e79aaca0f1971db081598ba6",
-    "signature": "dmeUgUJrE4nTh5OJxQauZECzf0EXBbWXSaJOG8PTgLimBZlGObDlZzIsS3WAO1Cncb+PYXdK1kxnPt3Wi1+lPA==",
+    "sha256": "9f5265a0f5911e99f4f81fdac21ca39c0ca1ba03d84ec5180ff62f4b617525c3",
+    "signature": "iI9qxy2qHW2DzVw8hBRLACQdz9NOWdihdVqeFLelD6IQU72XdVJ0vr8o3HEHDsySFPtLMxHhwNoYap/8ODGxpw==",
     "changelog": [
-      "Improve word-filter editor: stricter dedupe, inline add, and word search.",
+      "Compact word-filter rows and sticky prev/next search.",
       "Co-authored-by: Cursor <cursoragent@cursor.com>"
     ]
   }
