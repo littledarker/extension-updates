@@ -19,12 +19,12 @@
     ]
   },
   "sid": {
-    "version": "0.36.0.72",
+    "version": "0.36.2.73",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-sid.enc",
-    "sha256": "ea789ae71f3c3db91e3229cf2e3b4bbffaf070396eb49f011543b735d31ff53c",
-    "signature": "7AVBvstp9SgJUp2n/KVPmtG+yAKP0k3HL210VHT0bjHkgjYzfbCxEOKfg6r1vJqf+9bXPhJ5andJkopgHE9P2A==",
+    "sha256": "48494d7b53f596b6c59732a1a25a0fc8833f13058f95992ea1eb612139dae229",
+    "signature": "0cBooL21IRq5XRYnic5Yc0vJ71Z8HjI2+ZcU8IGBO7mYtksPxQyxNMgl8W5yvj3uXpSHfBRdU41KniT4JbGbqw==",
     "changelog": [
-      "﻿Add word-filter module with category highlighting and CSV/Google sync.",
+      "Document word-filter import flags and seed the starter dictionary.",
       "Co-authored-by: Cursor <cursoragent@cursor.com>"
     ]
   }
