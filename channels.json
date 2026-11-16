@@ -10,12 +10,12 @@
     ]
   },
   "testing": {
-    "version": "0.37.7.94",
+    "version": "0.37.8.95",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-testing.enc",
-    "sha256": "0ad4b3d007b1a823c1665f6471cb43bff47cb2761adaf7804bd3acb8dc6d932c",
-    "signature": "x0CZ9EweY/r5VmOAYzK42WwP4mIvlwb9qctTrUOAHU3iyAxzZuGDBqAEcAnA0hW35OaJxIpqmOt0tgdu66wPOw==",
+    "sha256": "796b79ada09785864c0ba2979927f7ee2007a2af00779f071b18dd9d52f50f52",
+    "signature": "B3E3SsoNignmb7gvO5qUHDIBNHlChuTdhlHpaiugda3wCWfQmOonhHL64fe7nSWvUPYxuIx2r5jYFAAqmuSJ9w==",
     "changelog": [
-      "Restyle settings UI to match DNS club admin colors.",
+      "Rename outside-site module group to Редакторская и ФНС.",
       "Co-authored-by: Cursor <cursoragent@cursor.com>"
     ]
   },
