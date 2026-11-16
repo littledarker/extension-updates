@@ -10,12 +10,12 @@
     ]
   },
   "testing": {
-    "version": "0.37.4.91",
+    "version": "0.37.5.92",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-testing.enc",
-    "sha256": "5dc3cf449e8f488170fff2f0031dce61e764653c20394226963cbeaae392911a",
-    "signature": "rlMwc93P61o6rpZKgtYjg5w9VgALd1vUfoW8HTaPFWhovlTb/twLmcZDedGwJ/Q/3wZTp9AzzyK3jj7IReKCEg==",
+    "sha256": "226fccd0e17631840056a319c9ab1b32326b51a3450c40c73dbacbe326862aa5",
+    "signature": "YULdjcE1jvsOlS34m7p5V/i4mqg9avW3jvYmxpJ0IGKQlo4dBFBjKZZ0XMtYdC6I1lsMubwr+tOFAmTLtKmilA==",
     "changelog": [
-      "Wrap settings buttons to a second line when the header overflows.",
+      "Allow module action buttons to wrap inside the card.",
       "Co-authored-by: Cursor <cursoragent@cursor.com>"
     ]
   },
