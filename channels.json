@@ -19,12 +19,12 @@
     ]
   },
   "sid": {
-    "version": "0.36.3.74",
+    "version": "0.36.5.75",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-sid.enc",
-    "sha256": "f896683e88bf6ed37255b40ac2278e3e0fd11a05a8c9b94a6849f2bc3a2a2a56",
-    "signature": "W3Orr4rIdpxJvapnfsV/ASu8c2exginAIYymvTXwzW7Phqk1YtfKDbaweYxLO4Ri+D//XVcIMkpAKDSvXH7mhA==",
+    "sha256": "d83413479b3740e62ebd3710cfcca5046d2437e41280fe7fc7a8fb2e14d8c26a",
+    "signature": "L8itkbC+29oywxN7ASPwT/7x1qlU78BKUVzjfdwyleX4177VvAMn+5TaZLkNvpZ6pIRPg1ks6rtG0m6R1ecgMA==",
     "changelog": [
-      "Speed up word-filter scans and add Sheets-like color palette with local cache.",
+      "Extend word-filter to on-air feed and clarify Google sync errors.",
       "Co-authored-by: Cursor <cursoragent@cursor.com>"
     ]
   }
