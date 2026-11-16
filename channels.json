@@ -19,12 +19,12 @@
     ]
   },
   "sid": {
-    "version": "0.36.9.79",
+    "version": "0.36.10.80",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-sid.enc",
-    "sha256": "0adac4c9632391fb0910c2c7561473ec5294e02a3a9076ec2b5e5a8abe312183",
-    "signature": "pVzlgwMTQEUr0JCqS9EMN6WOYsKDlFad78rBrAiE6eQ2JPYLrTQmWDqauWujMNPylwsQTb/ej+3+yj+OyEGEgw==",
+    "sha256": "dbab8df629df00ea0b88d6b081b79f4d598c28f8bc8cfe8ffe915bb483a22981",
+    "signature": "NGJILmWinxyJTdN1LVXeKevWOHvbSVWY+XduV6V+IOrpfUIC0tP9B2w/twFeHKgFJjQk6qW8R2rN+02Ey29O9g==",
     "changelog": [
-      "Fix scroll-to-top to scroll list instead of focusing search.",
+      "Fix scroll-to-top via non-sticky list anchor.",
       "Co-authored-by: Cursor <cursoragent@cursor.com>"
     ]
   }
