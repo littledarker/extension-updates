@@ -10,12 +10,13 @@
     ]
   },
   "testing": {
-    "version": "0.27.30.27",
+    "version": "0.36.15.85",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-testing.enc",
-    "sha256": "a2d93d506a9f614ab7e3db8919bdece3577a5f295d58e9bed2640bc4812eb14f",
-    "signature": "HaJGxODfwj+LBoQngMm8PaLCMjpN84yynfZ6etgiB8Znc01FAIDsXptyjcnXZMVAmufG7L/Y6pery+GZv/AT/A==",
+    "sha256": "7863b64933ca3c18346029e55894d4090171474aac659a86bbccb023cf62a608",
+    "signature": "94E7dl1E2nbmRQg3muYk7VSp8Ws8TvesvsfKYvwyirRPy09ctG9g9NrZ+MT2tnl+QWUi2tBfY36usmJQ8u1Eyg==",
     "changelog": [
-      "first commit in branch"
+      "Restructure modules settings layout and quiet update notifications.",
+      "Co-authored-by: Cursor <cursoragent@cursor.com>"
     ]
   },
   "sid": {
