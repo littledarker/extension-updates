@@ -10,12 +10,12 @@
     ]
   },
   "testing": {
-    "version": "0.38.0.96",
+    "version": "0.38.1.97",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-testing.enc",
-    "sha256": "3e7640c25d27ab5f76d8639065a8c9b8dd69e218bf5290fe322d147b59f6e463",
-    "signature": "Zt1epbpMDu+niR3b2hP7M15sA7SIvFRk+KGUwI/cKJS7QsI/t/VAC44NLxFJRhcFFZKZs2Vih1oc/uOQIKxC0Q==",
+    "sha256": "763504c04732412ee16bb60b2c841362233683f31c09cae97ae70a2f5920ab87",
+    "signature": "Yf+LCG94pz6KGaIYf5yQ+BwcKXnWjmqbKjI+6I5zwxUzzavZVFs6tWho9tALAnZAYijNcLNoI0cDJj8718EIxA==",
     "changelog": [
-      "Sync task rates to counter and highlight rate changes in sheet.",
+      "Retry deadline sync when Apps Script lock is busy.",
       "Co-authored-by: Cursor <cursoragent@cursor.com>"
     ]
   },
