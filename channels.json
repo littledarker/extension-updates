@@ -10,12 +10,12 @@
     ]
   },
   "testing": {
-    "version": "0.37.8.95",
+    "version": "0.38.0.96",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-testing.enc",
-    "sha256": "796b79ada09785864c0ba2979927f7ee2007a2af00779f071b18dd9d52f50f52",
-    "signature": "B3E3SsoNignmb7gvO5qUHDIBNHlChuTdhlHpaiugda3wCWfQmOonhHL64fe7nSWvUPYxuIx2r5jYFAAqmuSJ9w==",
+    "sha256": "3e7640c25d27ab5f76d8639065a8c9b8dd69e218bf5290fe322d147b59f6e463",
+    "signature": "Zt1epbpMDu+niR3b2hP7M15sA7SIvFRk+KGUwI/cKJS7QsI/t/VAC44NLxFJRhcFFZKZs2Vih1oc/uOQIKxC0Q==",
     "changelog": [
-      "Rename outside-site module group to Редакторская и ФНС.",
+      "Sync task rates to counter and highlight rate changes in sheet.",
       "Co-authored-by: Cursor <cursoragent@cursor.com>"
     ]
   },
