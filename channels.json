@@ -10,12 +10,12 @@
     ]
   },
   "testing": {
-    "version": "0.38.1.97",
+    "version": "0.38.2.98",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-testing.enc",
-    "sha256": "763504c04732412ee16bb60b2c841362233683f31c09cae97ae70a2f5920ab87",
-    "signature": "Yf+LCG94pz6KGaIYf5yQ+BwcKXnWjmqbKjI+6I5zwxUzzavZVFs6tWho9tALAnZAYijNcLNoI0cDJj8718EIxA==",
+    "sha256": "13434316537cd818ed7b567ebe22b4c0c9e61a8c383face69950b266b94c439d",
+    "signature": "jmjJnyly3GIPdetUvv55NXBhtJN0U5hOrxg3RWf1WVxaGiH2XOyX2o5181wQR+fPnAJcjbCP5ulFPg5CyxDuSQ==",
     "changelog": [
-      "Retry deadline sync when Apps Script lock is busy.",
+      "Add fingerprint watchlist and IP/FP match gates to twin detector.",
       "Co-authored-by: Cursor <cursoragent@cursor.com>"
     ]
   },
