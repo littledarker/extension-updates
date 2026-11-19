@@ -10,12 +10,12 @@
     ]
   },
   "testing": {
-    "version": "0.38.4.100",
+    "version": "0.38.5.101",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-testing.enc",
-    "sha256": "47fb6bd1e29056bc00ff755d7e4bb89c49ed4d2aeed8b3866857a34c0ef85a9e",
-    "signature": "U6w9apVkr7Q4N6blfZjxCkHGpJ2o6ReYqCVBzhg9i5OMWTp0Kftu5uIU9iv3HRBGhSNn71HF+NCEESyP59Qzsg==",
+    "sha256": "176a34116a175a1db1348b6c109dde66510e5fc2a9800caeb0ca34daba20cfde",
+    "signature": "ul21fqnMYZMIdO1m9g8y8Nh2lk61lJAruREyl+r18PS3BtYJyIn3x+Xo7CCP+jeOlVTeIyFZ/wXhUwFUvARdDg==",
     "changelog": [
-      "Fix Apps Script POST HTML responses via text/plain and clearer errors.",
+      "Open Google login for account-gated Apps Script and send session cookies.",
       "Co-authored-by: Cursor <cursoragent@cursor.com>"
     ]
   },
