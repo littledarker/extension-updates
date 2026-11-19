@@ -10,12 +10,12 @@
     ]
   },
   "testing": {
-    "version": "0.38.3.99",
+    "version": "0.38.4.100",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-testing.enc",
-    "sha256": "226c7a3117ba7ac9b13fb0da2061e750eec6440305da3adbd8563e5ee0e706d4",
-    "signature": "rF86RZMjG81bqBsLnRUblyqb4fv4+OQ9X6TpGRqOHvsyIl2YEMZwfy5B3+UH2KbmqbAbCeqULSPmugOVx7GEqA==",
+    "sha256": "47fb6bd1e29056bc00ff755d7e4bb89c49ed4d2aeed8b3866857a34c0ef85a9e",
+    "signature": "U6w9apVkr7Q4N6blfZjxCkHGpJ2o6ReYqCVBzhg9i5OMWTp0Kftu5uIU9iv3HRBGhSNn71HF+NCEESyP59Qzsg==",
     "changelog": [
-      "Add word-filter Google Sheet export and bidirectional LWW sync.",
+      "Fix Apps Script POST HTML responses via text/plain and clearer errors.",
       "Co-authored-by: Cursor <cursoragent@cursor.com>"
     ]
   },
