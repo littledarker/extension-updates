@@ -10,12 +10,12 @@
     ]
   },
   "testing": {
-    "version": "0.38.9.104",
+    "version": "0.38.10.105",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-testing.enc",
-    "sha256": "dc8df86ba5934cc97d95d476cd1dafad7de2201b646dff4c2ee89162713b2dd1",
-    "signature": "dmOlcvIeJITFF/F2lpwUhibi4SU83oDy2hHdWT1UC/k84jft256ZVKW2Q34g+6/P8g7PPaUz6NuXilfeuJRmtg==",
+    "sha256": "00121fc30e8ffc271089e754036dadc80eb5c4b58940c8baa67bf94cec10e3c8",
+    "signature": "6zAePozoCCOoTH32yyhEq/qvJZ5qxJhK6xeQ/LbwP3Gp1uWGUimiccPzFgV45gipDSgTIxGolLqLJwSDPjzYeg==",
     "changelog": [
-      "Route word-filter Google sync through Daily Stats like the counter.",
+      "Fix word-filter Sheet getRange to use numRows, not lastRow.",
       "Co-authored-by: Cursor <cursoragent@cursor.com>"
     ]
   },
