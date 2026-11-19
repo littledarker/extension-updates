@@ -10,12 +10,12 @@
     ]
   },
   "testing": {
-    "version": "0.38.6.102",
+    "version": "0.38.8.103",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-testing.enc",
-    "sha256": "3dff9b8f24424d4dad1a37901af4b5e671e679d274f85ba8f7a28ca8f803a50e",
-    "signature": "V+vBGgWtZO2ZP4E6sqN5TUSBaLYFNjmp3tZIN3e656bWlb0umWdeaHlWI2hDsCHhWEW0WbjcD6BIB18FgZyLqA==",
+    "sha256": "1b50cc4afe3f87f5de11815118e54078fec6d1b2439782af08e34532f47efdcb",
+    "signature": "I63DHOjb/aF13XIFlK+NkNLJbP4oLP4lATVOu7K1nzWntSVrVy20Za+vrhdhNauxj82odwY6r2kcMWA9bF6P8w==",
     "changelog": [
-      "Post Apps Script via Google tab session and stop empty checkbox prefills.",
+      "Post account-gated Apps Script via form navigation to bypass CORS.",
       "Co-authored-by: Cursor <cursoragent@cursor.com>"
     ]
   },
