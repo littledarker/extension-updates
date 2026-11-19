@@ -10,12 +10,12 @@
     ]
   },
   "testing": {
-    "version": "0.38.2.98",
+    "version": "0.38.3.99",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-testing.enc",
-    "sha256": "13434316537cd818ed7b567ebe22b4c0c9e61a8c383face69950b266b94c439d",
-    "signature": "jmjJnyly3GIPdetUvv55NXBhtJN0U5hOrxg3RWf1WVxaGiH2XOyX2o5181wQR+fPnAJcjbCP5ulFPg5CyxDuSQ==",
+    "sha256": "226c7a3117ba7ac9b13fb0da2061e750eec6440305da3adbd8563e5ee0e706d4",
+    "signature": "rF86RZMjG81bqBsLnRUblyqb4fv4+OQ9X6TpGRqOHvsyIl2YEMZwfy5B3+UH2KbmqbAbCeqULSPmugOVx7GEqA==",
     "changelog": [
-      "Add fingerprint watchlist and IP/FP match gates to twin detector.",
+      "Add word-filter Google Sheet export and bidirectional LWW sync.",
       "Co-authored-by: Cursor <cursoragent@cursor.com>"
     ]
   },
