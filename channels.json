@@ -10,12 +10,12 @@
     ]
   },
   "testing": {
-    "version": "0.38.5.101",
+    "version": "0.38.6.102",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-testing.enc",
-    "sha256": "176a34116a175a1db1348b6c109dde66510e5fc2a9800caeb0ca34daba20cfde",
-    "signature": "ul21fqnMYZMIdO1m9g8y8Nh2lk61lJAruREyl+r18PS3BtYJyIn3x+Xo7CCP+jeOlVTeIyFZ/wXhUwFUvARdDg==",
+    "sha256": "3dff9b8f24424d4dad1a37901af4b5e671e679d274f85ba8f7a28ca8f803a50e",
+    "signature": "V+vBGgWtZO2ZP4E6sqN5TUSBaLYFNjmp3tZIN3e656bWlb0umWdeaHlWI2hDsCHhWEW0WbjcD6BIB18FgZyLqA==",
     "changelog": [
-      "Open Google login for account-gated Apps Script and send session cookies.",
+      "Post Apps Script via Google tab session and stop empty checkbox prefills.",
       "Co-authored-by: Cursor <cursoragent@cursor.com>"
     ]
   },
