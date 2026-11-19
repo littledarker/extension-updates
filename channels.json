@@ -10,12 +10,12 @@
     ]
   },
   "testing": {
-    "version": "0.38.8.103",
+    "version": "0.38.9.104",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-testing.enc",
-    "sha256": "1b50cc4afe3f87f5de11815118e54078fec6d1b2439782af08e34532f47efdcb",
-    "signature": "I63DHOjb/aF13XIFlK+NkNLJbP4oLP4lATVOu7K1nzWntSVrVy20Za+vrhdhNauxj82odwY6r2kcMWA9bF6P8w==",
+    "sha256": "dc8df86ba5934cc97d95d476cd1dafad7de2201b646dff4c2ee89162713b2dd1",
+    "signature": "dmOlcvIeJITFF/F2lpwUhibi4SU83oDy2hHdWT1UC/k84jft256ZVKW2Q34g+6/P8g7PPaUz6NuXilfeuJRmtg==",
     "changelog": [
-      "Post account-gated Apps Script via form navigation to bypass CORS.",
+      "Route word-filter Google sync through Daily Stats like the counter.",
       "Co-authored-by: Cursor <cursoragent@cursor.com>"
     ]
   },
