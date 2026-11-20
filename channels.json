@@ -10,12 +10,12 @@
     ]
   },
   "testing": {
-    "version": "0.43.0.112",
+    "version": "0.44.0.113",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-testing.enc",
-    "sha256": "3a8b16b402fba61f1fe3f230c03591824ceb60ea0f9b8746a572637be7e4aaf0",
-    "signature": "BV6ubRPXzit6u11wFZD8FoQ+4LSZiATQGTzCMcc5xGy3AdjR/4VIwJl7MBU+2DA4QK1WoXcNhm9+8H6Hl7atrg==",
+    "sha256": "1a4361a3bb2ea0cc6128d9e663d1f0c9f452efdf1100304abecda4a506fdf890",
+    "signature": "BdbRWSC2paCrcJ+ZHMRE1sDaDqyMrBUS8dJKEPZa1cKiC8Eu8VtuMJ0tkU0jlUT24zsDrbEHjt5bb/sV/saWUQ==",
     "changelog": [
-      "Sync shift stats via Google account with shared shift total",
+      "Write normalised tab via Google account",
       "Co-authored-by: Cursor <cursoragent@cursor.com>"
     ]
   },
