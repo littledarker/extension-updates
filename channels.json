@@ -10,13 +10,13 @@
     ]
   },
   "testing": {
-    "version": "0.40.0.109",
+    "version": "0.41.0.110",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-testing.enc",
-    "sha256": "45f5c70b778326061bda855a79047908f78fc708eaf8190f793be34488a52a3e",
-    "signature": "TGXlAyNxBXsecZpjIOJWybFTBGHnGcGSKNcQXziKh+HHOZI6wK05fn6xd1Ard40uOXT+P7hM8nV4YJHyipVgGA==",
+    "sha256": "9a67d8f1079a008ff5a7e08faf741a927131140a8447a37725b8ea05b5d960e6",
+    "signature": "Vs9kj4oyDA/gB0csfXpltMv76EWStyZOUpuwvoe6FVgRJsUxkqX2p3cTR/OzjDPwaP4rxiB1GYIZmR1a42Jeew==",
     "changelog": [
-      "Sync word filter via Google account",
-      "Direct Sheets API transport for the word_filter tab, same layout as Daily Stats; Apps Script transport kept as default.",
+      "Sync templates via Google account",
+      "Both lists on one Templates tab with per-list LWW clocks; replaces the non-working Apps Script getTemplates pull.",
       "Co-authored-by: Cursor <cursoragent@cursor.com>"
     ]
   },
