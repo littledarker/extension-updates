@@ -10,12 +10,14 @@
     ]
   },
   "testing": {
-    "version": "0.38.10.106",
+    "version": "0.38.11.107",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-testing.enc",
-    "sha256": "14dede510d18826c9d30240bb5c26cc74de030f95b4f2224e7546760ee85cee5",
-    "signature": "mCH21dgINqvxAsX/tb+97B7egqqfqdIDxeoPHdPTwILeX0F4J5DCvALspAj06JE0i8stOC7Mc2aoZDBjhVfhiw==",
+    "sha256": "9ca70ae76cd6211ac89e9487b7c9ee07ac3e66ea4feaccf7972cfdddef9d6c77",
+    "signature": "CccuFDNY6tsccPwOEYE9EijgNcgOhQaANMha0z6e94Hy92AfsYpw8FlArHLu5E0D+3j/O7cAXiOQ4Y8FISGPWQ==",
     "changelog": [
-      "Убран ненужный скрипт"
+      "Serialize Apps Script requests and stop leaking sync token",
+      "Queue all Web App calls in the service worker per URL, coalesce pending syncShift snapshots per client, retry counter sync on lock timeout, and drop token fragments and stack traces from doPost responses.",
+      "Co-authored-by: Cursor <cursoragent@cursor.com>"
     ]
   },
   "sid": {
