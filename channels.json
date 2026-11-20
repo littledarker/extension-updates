@@ -10,13 +10,12 @@
     ]
   },
   "testing": {
-    "version": "0.42.0.111",
+    "version": "0.43.0.112",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-testing.enc",
-    "sha256": "6ee33323aec773baebf83d51923f96da9975709f6d3bbc230f0eb788001dbc75",
-    "signature": "OWEiegZId/2gpgLjgDWuk80xbKHoIjBEfldNJf6EbeE4XxETFO0E3sKJGym2T+ElkI4AOhtWBK1xRQRjG8zCOg==",
+    "sha256": "3a8b16b402fba61f1fe3f230c03591824ceb60ea0f9b8746a572637be7e4aaf0",
+    "signature": "BV6ubRPXzit6u11wFZD8FoQ+4LSZiATQGTzCMcc5xGy3AdjR/4VIwJl7MBU+2DA4QK1WoXcNhm9+8H6Hl7atrg==",
     "changelog": [
-      "Background sync of dictionary and templates",
-      "Service worker syncs via the Google account at startup and every 30 minutes; last result shown on the settings page.",
+      "Sync shift stats via Google account with shared shift total",
       "Co-authored-by: Cursor <cursoragent@cursor.com>"
     ]
   },
