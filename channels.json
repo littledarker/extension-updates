@@ -10,12 +10,12 @@
     ]
   },
   "testing": {
-    "version": "0.46.0.115",
+    "version": "0.46.1.116",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-testing.enc",
-    "sha256": "0c534d75c6115b94b02bd942eabc76bf73e2c94619eae6e88106a4a5e59a35e1",
-    "signature": "wdfI6bXFGWp0ABfN2/8X6chJ5mqnG+JCjsOE8AQ9QfKNaqovmEywmHBewxIVoH1/ncbSDfNkFE7eRUrIh5pbBw==",
+    "sha256": "89cf3a686fd407e98cb77f7bec713a6cd72c1ab482960942809e0f9249d3314a",
+    "signature": "xfZV5S50PRgbdLpx1YjyIt7rFjCOPAZya0WDjdgZBR0rrjMt0/wB7JUJ7w7TcmWCvgOe23dqZUDaIDR6R8u9Dw==",
     "changelog": [
-      "Show Google transport badge on module cards",
+      "Open interactive Google sign-in in a regular popup window",
       "Co-authored-by: Cursor <cursoragent@cursor.com>"
     ]
   },
