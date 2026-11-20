@@ -10,12 +10,12 @@
     ]
   },
   "testing": {
-    "version": "0.45.0.114",
+    "version": "0.46.0.115",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-testing.enc",
-    "sha256": "b1d9c23e0a8a4dcef3f6aacc05eda83eeb2cf505da2211431199919593318d8d",
-    "signature": "2ZReqQvfTORCJv+Y/21lilKz/NbhB96SH7bqUHSp9jaFvkolEoViOxrJ3Wz7X6Q5eVG5vfwTwoWlNGLsTxc9Rg==",
+    "sha256": "0c534d75c6115b94b02bd942eabc76bf73e2c94619eae6e88106a4a5e59a35e1",
+    "signature": "wdfI6bXFGWp0ABfN2/8X6chJ5mqnG+JCjsOE8AQ9QfKNaqovmEywmHBewxIVoH1/ncbSDfNkFE7eRUrIh5pbBw==",
     "changelog": [
-      "Google Tasks for issue pages via Google account",
+      "Show Google transport badge on module cards",
       "Co-authored-by: Cursor <cursoragent@cursor.com>"
     ]
   },
