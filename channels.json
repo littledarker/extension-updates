@@ -10,13 +10,13 @@
     ]
   },
   "testing": {
-    "version": "0.38.11.107",
+    "version": "0.39.0.108",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-testing.enc",
-    "sha256": "9ca70ae76cd6211ac89e9487b7c9ee07ac3e66ea4feaccf7972cfdddef9d6c77",
-    "signature": "CccuFDNY6tsccPwOEYE9EijgNcgOhQaANMha0z6e94Hy92AfsYpw8FlArHLu5E0D+3j/O7cAXiOQ4Y8FISGPWQ==",
+    "sha256": "09856b59820ee57dc5908a89ec0402685eb662fbffd146326cae123f91dde068",
+    "signature": "HeA9dyRqNe8sM/wku1zMKsF1RTux90YxjiN3V0zuu0M2Sw8R95YBCSVbdJ50hU9HuFH8FPhEsKMSlbBNN6u/Dw==",
     "changelog": [
-      "Serialize Apps Script requests and stop leaking sync token",
-      "Queue all Web App calls in the service worker per URL, coalesce pending syncShift snapshots per client, retry counter sync on lock timeout, and drop token fragments and stack traces from doPost responses.",
+      "Add Google account sign-in and ID-change settings backup",
+      "Shared OAuth module in the service worker (launchWebAuthFlow, token in session storage, silent renewal), Google account card with main spreadsheet check, and automatic settings backup when an update changes the extension ID. The manifest key is shipped in the next release so this guard is installed first.",
       "Co-authored-by: Cursor <cursoragent@cursor.com>"
     ]
   },
