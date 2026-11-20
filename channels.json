@@ -10,12 +10,12 @@
     ]
   },
   "testing": {
-    "version": "0.44.0.113",
+    "version": "0.45.0.114",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-testing.enc",
-    "sha256": "1a4361a3bb2ea0cc6128d9e663d1f0c9f452efdf1100304abecda4a506fdf890",
-    "signature": "BdbRWSC2paCrcJ+ZHMRE1sDaDqyMrBUS8dJKEPZa1cKiC8Eu8VtuMJ0tkU0jlUT24zsDrbEHjt5bb/sV/saWUQ==",
+    "sha256": "b1d9c23e0a8a4dcef3f6aacc05eda83eeb2cf505da2211431199919593318d8d",
+    "signature": "2ZReqQvfTORCJv+Y/21lilKz/NbhB96SH7bqUHSp9jaFvkolEoViOxrJ3Wz7X6Q5eVG5vfwTwoWlNGLsTxc9Rg==",
     "changelog": [
-      "Write normalised tab via Google account",
+      "Google Tasks for issue pages via Google account",
       "Co-authored-by: Cursor <cursoragent@cursor.com>"
     ]
   },
