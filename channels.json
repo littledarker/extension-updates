@@ -10,12 +10,12 @@
     ]
   },
   "testing": {
-    "version": "0.46.3.118",
+    "version": "0.46.4.119",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-testing.enc",
-    "sha256": "6f09355c5d838d70a4f87892fbff252e6c9360f2795f90fc1473c20fce313758",
-    "signature": "v/5gg8iw4fz90kLdZLfgeL9FIeYjHG/QRtgVTz31vR6Ow+JcJPImcb1Tt61IP8OkfIy8uAdu6l1Ha+kwQ/kcig==",
+    "sha256": "97d5bf091d98aa4a0267f431f7bac4e04072c031a9727edafcef69bb0f011595",
+    "signature": "RY8h/b+t/41JYT7UamaiSCo0WQuDKOc5hWMihqB7zDSvPTwwyf+UC8+9bFPEFk623nx9D2Z9CYRWakqcjXM3cw==",
     "changelog": [
-      "Sweep all sign-in redirect entries from history",
+      "Remove Google sign-in pages from history after popup sign-in",
       "Co-authored-by: Cursor <cursoragent@cursor.com>"
     ]
   },
