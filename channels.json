@@ -10,13 +10,13 @@
     ]
   },
   "testing": {
-    "version": "0.41.0.110",
+    "version": "0.42.0.111",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-testing.enc",
-    "sha256": "9a67d8f1079a008ff5a7e08faf741a927131140a8447a37725b8ea05b5d960e6",
-    "signature": "Vs9kj4oyDA/gB0csfXpltMv76EWStyZOUpuwvoe6FVgRJsUxkqX2p3cTR/OzjDPwaP4rxiB1GYIZmR1a42Jeew==",
+    "sha256": "6ee33323aec773baebf83d51923f96da9975709f6d3bbc230f0eb788001dbc75",
+    "signature": "OWEiegZId/2gpgLjgDWuk80xbKHoIjBEfldNJf6EbeE4XxETFO0E3sKJGym2T+ElkI4AOhtWBK1xRQRjG8zCOg==",
     "changelog": [
-      "Sync templates via Google account",
-      "Both lists on one Templates tab with per-list LWW clocks; replaces the non-working Apps Script getTemplates pull.",
+      "Background sync of dictionary and templates",
+      "Service worker syncs via the Google account at startup and every 30 minutes; last result shown on the settings page.",
       "Co-authored-by: Cursor <cursoragent@cursor.com>"
     ]
   },
