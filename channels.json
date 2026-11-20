@@ -10,13 +10,12 @@
     ]
   },
   "testing": {
-    "version": "0.38.10.105",
+    "version": "0.38.10.106",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-testing.enc",
-    "sha256": "00121fc30e8ffc271089e754036dadc80eb5c4b58940c8baa67bf94cec10e3c8",
-    "signature": "6zAePozoCCOoTH32yyhEq/qvJZ5qxJhK6xeQ/LbwP3Gp1uWGUimiccPzFgV45gipDSgTIxGolLqLJwSDPjzYeg==",
+    "sha256": "14dede510d18826c9d30240bb5c26cc74de030f95b4f2224e7546760ee85cee5",
+    "signature": "mCH21dgINqvxAsX/tb+97B7egqqfqdIDxeoPHdPTwILeX0F4J5DCvALspAj06JE0i8stOC7Mc2aoZDBjhVfhiw==",
     "changelog": [
-      "Fix word-filter Sheet getRange to use numRows, not lastRow.",
-      "Co-authored-by: Cursor <cursoragent@cursor.com>"
+      "Убран ненужный скрипт"
     ]
   },
   "sid": {
