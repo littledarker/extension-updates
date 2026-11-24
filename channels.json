@@ -10,12 +10,12 @@
     ]
   },
   "testing": {
-    "version": "0.47.1.122",
+    "version": "0.48.0.123",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-testing.enc",
-    "sha256": "7e1ffb0ea04a79f8331b711a77320943e62eda68f8eb00149cbce70777fd7717",
-    "signature": "ZbiDrBzeh2LBs4OiNAPeii7iJL29S9h/wbrjdfokpTndAkqxaQlwq/AgA0B4AMchqn6Uz9IUCu0RUa5ZCA928Q==",
+    "sha256": "e03bb41977b3c172d8fbb84e8de5fa6bd5955aaa581030e2f9b94ae752f89a50",
+    "signature": "VzkJGiqNx66DHc4qaAI7uj44kzuRC/G01qs9ye8IqUQZmqqJ1tJsMIXMESVrDuJKK6aBYx4ShNmYbaL8N+YenQ==",
     "changelog": [
-      "Remove retired Apps Script sources from the repo",
+      "Drop Apps Script web app transport from the extension",
       "Co-authored-by: Cursor <cursoragent@cursor.com>"
     ]
   },
