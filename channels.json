@@ -10,12 +10,12 @@
     ]
   },
   "testing": {
-    "version": "0.47.0.120",
+    "version": "0.47.1.121",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-testing.enc",
-    "sha256": "e4c9ed733c399f7b113817d86ec326adeab1b0fa057eba5f719be49e9249e5e8",
-    "signature": "LSA7EbIbmjbsG58jWlotF8hZGa9ofIjN3cZP4THKOKbw61ZBp+ca0UBdAQ6HYxseNfmd0UhHumfvbnq8S0vsCg==",
+    "sha256": "2774103e4430fea0ed3c7969d99ba6d38a0e341e8e5789175805757a1aa13ccd",
+    "signature": "v6aJ8AK2sLUT8YPvQtcg+b9w/B8352M/aTaHKSuSU7zvezjhzH9z9Boaeyd3LOxM/nVNjsvnZdaP8ZuH72nqlw==",
     "changelog": [
-      "Sync schedule-row Google Tasks from the extension",
+      "Do not take next offer's review when this one is completed",
       "Co-authored-by: Cursor <cursoragent@cursor.com>"
     ]
   },
