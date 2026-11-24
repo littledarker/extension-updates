@@ -10,12 +10,12 @@
     ]
   },
   "testing": {
-    "version": "0.46.4.119",
+    "version": "0.47.0.120",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-testing.enc",
-    "sha256": "97d5bf091d98aa4a0267f431f7bac4e04072c031a9727edafcef69bb0f011595",
-    "signature": "RY8h/b+t/41JYT7UamaiSCo0WQuDKOc5hWMihqB7zDSvPTwwyf+UC8+9bFPEFk623nx9D2Z9CYRWakqcjXM3cw==",
+    "sha256": "e4c9ed733c399f7b113817d86ec326adeab1b0fa057eba5f719be49e9249e5e8",
+    "signature": "LSA7EbIbmjbsG58jWlotF8hZGa9ofIjN3cZP4THKOKbw61ZBp+ca0UBdAQ6HYxseNfmd0UhHumfvbnq8S0vsCg==",
     "changelog": [
-      "Remove Google sign-in pages from history after popup sign-in",
+      "Sync schedule-row Google Tasks from the extension",
       "Co-authored-by: Cursor <cursoragent@cursor.com>"
     ]
   },
