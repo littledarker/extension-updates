@@ -10,12 +10,12 @@
     ]
   },
   "testing": {
-    "version": "0.48.0.123",
+    "version": "0.49.0.124",
     "url": "https://raw.githubusercontent.com/littledarker/extension-updates/main/extension-testing.enc",
-    "sha256": "e03bb41977b3c172d8fbb84e8de5fa6bd5955aaa581030e2f9b94ae752f89a50",
-    "signature": "VzkJGiqNx66DHc4qaAI7uj44kzuRC/G01qs9ye8IqUQZmqqJ1tJsMIXMESVrDuJKK6aBYx4ShNmYbaL8N+YenQ==",
+    "sha256": "4e6b1602ecaa6bcbb22e1755dcd7613c131eca2220d22587f2f20fca0275710d",
+    "signature": "ZmYKOZSYi7UMXs5DwqxW/u9ou2nJ7kTnd4IrsyeA9iRoXZPlYUWmAmJnJnGPofCigyN0wic2n++aJRGRXzCxDw==",
     "changelog": [
-      "Drop Apps Script web app transport from the extension",
+      "Add erid detection to word-filter auto-category.",
       "Co-authored-by: Cursor <cursoragent@cursor.com>"
     ]
   },
